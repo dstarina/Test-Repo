@@ -1,3 +1,9 @@
 ﻿git commands:
 clone <URL>	// clones URL to current folder
 status		// gets status
+add <fileName>	// adds to repository (needs commit and push)
+add .		// add everything in current directory
+add -A		// add all
+commit -m "<Commit description>"
+git push	// pushes to git repository
+git pull	// pulls from git repository
