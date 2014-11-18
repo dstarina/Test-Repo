@@ -7,3 +7,6 @@ add -A		// add all
 commit -m "<Commit description>"
 git push	// pushes to git repository
 git pull	// pulls from git repository
+
+To exit commit message:
+(Esc)+:+wq
